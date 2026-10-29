@@ -34,7 +34,7 @@
     "pgm": "^1.0.8",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
-    "typeor": "^1.2.0"
+    "typeorm": "^1.1.2"
   },
   "devDependencies": {
     "@nestjs/cli": "^12.0.0",
